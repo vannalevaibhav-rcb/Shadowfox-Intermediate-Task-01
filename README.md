@@ -11,7 +11,7 @@ Click Below For Checking In Goggle Colab-
 ![image](https://github.com/vannalevaibhav-rcb/AirQualityIndex/assets/53923590/83fdfa4c-d81b-485f-8677-d6dac01f875c)
 
 # AQI distribution 
-![image](https://github.com/Anagha0202/AirQualityIndex/assets/53923590/efec72f3-6c7a-4aba-99a0-eae51e36b51f)
+![image](https://github.com/vannalevaibhav-rcb/AirQualityIndex/assets/53923590/efec72f3-6c7a-4aba-99a0-eae51e36b51f)
 </br>The majority of the data points have AQI's between 0 and 150 which means that the livability condition is between Good and Unhealthy for sensitive groups.
 
 # EDA
