@@ -4,10 +4,8 @@
 • Evaluated the performance of the predictive model on previously unseen data, achieving an impressive accuracy rate of 82% and demonstrating its robustness and reliability.
 
 Click Below For Checking In Goggle Colab-
-[Colab](https://colab.research.google.com/drive/1dkSfh0-Hp9pA5aYBQidVV9JsAde0w8ix#scrollTo=YQR_JSc6CDDH)
 
-# Addition of calculated AQI to dataset
-![image](https://github.com/vannalevaibhav-rcb/AirQualityIndex/assets/53923590/c4a5c645-6a8c-4263-8b3c-7daec786cc52)
+[Colab](https://colab.research.google.com/drive/1dkSfh0-Hp9pA5aYBQidVV9JsAde0w8ix#scrollTo=YQR_JSc6CDDH)
 
 # Addition of AQI labels based on AQI values
 ![image](https://github.com/vannalevaibhav-rcb/AirQualityIndex/assets/53923590/83fdfa4c-d81b-485f-8677-d6dac01f875c)
@@ -22,14 +20,7 @@ Click Below For Checking In Goggle Colab-
 </br>Summer and Monsoon have similar concentrations of CO during the weekdays and the weekends.
 </br>As compared to other seasons, Monsoons are rightly the least polluted ones which makes sense because a lot of pollution matter are washed away from the atmosphere, flowing away the rain into the ground.
 
-![image](https://github.com/vannalevaibhav-rcb/AirQualityIndex/assets/53923590/501307c6-8ae4-45c9-b11f-356cb06e9f8c)
-</br>The air quality index reaches a peak during the 3:00 PM hour of the day. One of the primary reasons is the increased vehicular traffic till 3:00 PM and from then the Air quality index keeps reducing as there traffic go down.
 
-![image](https://github.com/vannalevaibhav-rcb/AirQualityIndex/assets/53923590/4bdf7686-847f-4aff-b08c-355ac3f888a9)
-</br>NO2 and SO2 are not directly related to CO. However, the presence of NO2 and SO2 in the air can indirectly affect the levels of CO in the atmosphere.
-
-# Feature Importance
-![image](https://github.com/vannalevaibhav-rcb/AirQualityIndex/assets/53923590/abd81404-c3e3-4857-b0bb-cb5db3b1961f)
 
 # Accuracy of RandomForrestRegressor
 There were 2907 number of labels correctly predicted in the test dataset out of 3643 instances, with an error scope of 16.<br>
